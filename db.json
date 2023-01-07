@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gertrudis Tatterton",
+      "email": "gtatterton0@ehow.com",
+      "password":"12345"
+    }
+   
+  ],
+  "tasks":[
+    {
+        "id":1,
+        "task":"learn redux"
+    }
+  ]
+}
